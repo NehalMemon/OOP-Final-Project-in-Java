@@ -1,4 +1,4 @@
-package src.repository;
+package repository;
 
 public class studentRepo {
     
